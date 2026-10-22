@@ -806,18 +806,4 @@ To perform an end-to-end acceptance test across physical devices on the same LAN
 
 ---
 
-## P. License & Acknowledgements
 
-### License Status
-> [!NOTE]
-> An open-source license has not yet been selected by the project owners. A standard permissive license such as the **MIT License** or **Apache License 2.0** is recommended for educational and open-source distribution. Please add a `LICENSE` file once your decision is confirmed.
-
-### Acknowledgements
-This project is built using exceptional open-source software:
-- [FastAPI](https://fastapi.tiangolo.com/) by Sebastián Ramírez.
-- [React](https://react.dev/) by the React Team.
-- [Vite](https://vite.dev/) by Evan You and contributors.
-- [SQLAlchemy](https://www.sqlalchemy.org/) by Michael Bayer and contributors.
-- [aiosqlite](https://github.com/omnilib/aiosqlite) by John Reese.
-- [Argon2-cffi](https://argon2-cffi.readthedocs.io/) by Hynek Schlawack.
-- [Uvicorn](https://www.uvicorn.org/) by Encode.
